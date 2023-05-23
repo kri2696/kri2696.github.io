@@ -2876,7 +2876,7 @@ a:hover, a:active {
 .dsn-nav-bar.nav-bg > .header-top > .header-container, .dsn-nav-bar.nav-bg .site-header {
   padding-bottom: 15px;
   padding-top: 15px;
-  background-color: #000;
+  background-color: #000000;
 }
 
 .dsn-nav-bar.hide-nave > .header-top > .header-container, .dsn-nav-bar.hide-nave .site-header {
@@ -9216,7 +9216,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .header-hero.header-hero-2 {
-  background-color: #e6e6e6;
+  background-color: #f7f7f7;
 }
 
 .header-hero.header-hero-2 .contenet-hero {
