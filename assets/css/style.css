@@ -4452,7 +4452,11 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 @media only screen and (max-width: 991px) {
   .v-light.nav-active .nav__list-item a {
+<<<<<<< HEAD
     color: #ffffff;
+=======
+    color: #fff;
+>>>>>>> 4cd48f758d9b7515ee853fb15f682f578bf216a8
   }
 }
 
